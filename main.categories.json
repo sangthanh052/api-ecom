@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60afacca6ef5b902180aacaf"
+  },
+  "name": "Đồng hồ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60aba4e24efcc70f8892e1c6"
+  },
+  "name": "Áo thun",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60afafe76ef5b902180aacb5"
+  },
+  "name": "Điện thoại",
+  "__v": 0
+}]
